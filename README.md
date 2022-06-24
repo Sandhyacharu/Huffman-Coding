@@ -1,8 +1,7 @@
 ### EX NO: 02
 ### DATE:
-# <p align="center">BINARY CLASSIFICATION</p>
+# <p align="center">HUFFMAN CODING</p>
 
-# Huffman-Coding
 ## Aim
 To implement Huffman coding to compress the data using Python.
 

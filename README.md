@@ -1,3 +1,7 @@
+### EX NO: 02
+### DATE:
+# <p align="center">BINARY CLASSIFICATION</p>
+
 # Huffman-Coding
 ## Aim
 To implement Huffman coding to compress the data using Python.
@@ -22,7 +26,10 @@ Step5:
 Print the characters and its huffmancode.
 
 ## Program:
-
+```
+### Developed By   : N Sandhya Charu
+### Register Number: 212220230041
+```
 ``` Python
 # Get the input String
 
